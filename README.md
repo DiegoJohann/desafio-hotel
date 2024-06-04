@@ -1,0 +1,1 @@
+Para rodar o projeto, é necessário um banco de dados Postgres em máquina local, com um schema vazio chamado "senior". Se necessário alterar algo, basta mudar a configuração no arquivo application.properties.
